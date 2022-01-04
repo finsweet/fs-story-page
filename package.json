@@ -1,14 +1,14 @@
 {
-  "name": "2021-in-review",
+  "name": "fs-story-page",
   "version": "1.0.0",
-  "description": "",
+  "description": "The new finsweet story page",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --watch --mode development",
     "build": "SET NODE_ENV=production BABEL_ENV=production & webpack -p"
   },
   "keywords": [],
-  "author": "",
+  "author": "PeterEbili",
   "license": "ISC",
   "dependencies": {
     "gsap": "^2.0.2"
